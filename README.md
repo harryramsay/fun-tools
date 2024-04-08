@@ -17,7 +17,7 @@ This is a list of fun and useful tools I use! Feel free to give them a try.
   - Useful, one-click solution for removing cookies from a website.
 - [**Copyfish**](https://chromewebstore.google.com/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj)
   - OCR software. Useful for quickly extracting text from non-text sources (e.g. images, videos, PDFs) without needing to manually re-type it.
-- [**Don't F*** With Paste**](https://chromewebstore.google.com/detail/dont-f-with-paste/nkgllhigpcljnhoakjkgaieabnkmgdkb)
+- [**Don't F\*\*\* With Paste**](https://chromewebstore.google.com/detail/dont-f-with-paste/nkgllhigpcljnhoakjkgaieabnkmgdkb)
   - Some websites "helpfully" block you from being able to copy or paste data into e.g. forms. This lets you get around it.
 - [**Flying Blue: Shop & Earn Miles**](https://chromewebstore.google.com/detail/flying-blue-%E2%80%93-shop-earn-m/dkmpgahpjfoicikbpmhmcichhedeaofk)
   - (Flying Blue is the alliance of KLM & Air France.) On some sites, you can get points for things you'd buy anyway by logging in via Flying Blue. I often forget which sites, thereby leaving free points on the table. This extension pops up a reminder on those sites, solving this.
