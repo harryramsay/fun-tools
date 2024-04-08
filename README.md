@@ -13,8 +13,9 @@ This is a list of fun and useful tools I use! Feel free to give them a try.
 - [**Awardwallet**](https://awardwallet.com/)
   - This is the tool I use to manage things like air miles from multiple sources in one place.
 - [**Bypass Paywalls Clean**](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)
+  - You can bypass paywalls to read news sites for free without logging in.
 - [**Cookie Remover**](https://chromewebstore.google.com/detail/cookie-remover/kcgpggonjhmeaejebeoeomdlohicfhce)
-  - Useful, one-click solution for removing cookies from a website.
+  - Useful, one-click solution for removing cookies from a website. (Occasionally helpful in conjunction with the Bypass Paywalls extension; try clearing cookies and refreshing the page if it doesn't work.)
 - [**Copyfish**](https://chromewebstore.google.com/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj)
   - OCR software. Useful for quickly extracting text from non-text sources (e.g. images, videos, PDFs) without needing to manually re-type it.
 - [**Don't F\*\*\* With Paste**](https://chromewebstore.google.com/detail/dont-f-with-paste/nkgllhigpcljnhoakjkgaieabnkmgdkb)
