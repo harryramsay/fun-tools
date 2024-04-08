@@ -2,7 +2,7 @@
 
 This is a list of fun and useful tools I use! Feel free to give them a try.
 
---
+---
 
 ## Browser Extensions
 
